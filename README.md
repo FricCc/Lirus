@@ -3,5 +3,8 @@ Lirus is a Pygame window that looks like a web pop-up of Linus Sebastian trying 
 
 NOTE:
 -You will need Pygame to debug and run the code for yourself
+
 -You will need the jpeg listed with the python file
+
 -I have no clue how to Pygame 90% of the code has been copy-pasted from Stack Overflow
+
