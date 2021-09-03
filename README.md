@@ -7,4 +7,4 @@ NOTE:
 
 -You will need the jpeg listed with the python file
 
--I have no clue how to Pygame 90% of the code has been copy-pasted from Stack Overflow
+-I have no clue how to Pygame 90% of the code has been copy-pasted from Stack Overflow and I sincerely apologize if I commented anything incorrectly
