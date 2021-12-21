@@ -10,7 +10,7 @@ import webbrowser                              #This is used so Lirus can open w
 X = 320   #Width
 Y = 191   #Height 
 
-pygame.init()   #I have no idea what this does tbh
+pygame.init()   #pygame becomes real
 
 display_surface = pygame.display.set_mode((X, Y ))
   
